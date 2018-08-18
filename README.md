@@ -11,6 +11,8 @@ Shows the usage of the react with redux including the followings:
 
 Great sample and diagram -> https://github.com/RahmanM/React-Redux-Boilerplate
 
+![redux flow image](https://github.com/RahmanM/react-redux-sample/blob/master/react_redux_diagram.png)
+
 ```javascript
 
 // This maps the store data (state) to component props
